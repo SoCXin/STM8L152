@@ -28,9 +28,13 @@ packages from 20 to 80 pins， 12-bit ADC and DAC
 
 ### [内部收录](https://github.com/sochub/STM8L15)
 
-* [资源](src/)
 * [文档](docs/)
-* [工程](project/)
+* [资源](src/)
+    * [Bootloader](src/Bootloader)
+    * [IAR](src/IAR)
+    * [STVD](src/STVD)
+    * [SDCC](src/SDCC)
+* [contiki系统工程](contiki/)
 
 ### [外部收录](https://github.com/sochub/STM8)
 
