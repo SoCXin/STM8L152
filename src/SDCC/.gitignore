@@ -1,0 +1,12 @@
+*.o
+*.d
+*.out
+*.map
+*.sym
+*.rst
+*.rel
+*.ihx
+*.cdb
+*.asm
+*.lst
+*.lk
