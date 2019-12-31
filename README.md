@@ -6,13 +6,11 @@
 #### [STM8](https://github.com/sochub/STM8)：[STM8](https://github.com/sochub)
 #### [Level](https://github.com/sochub/Level)：16MHz 
 
-### [描述](https://github.com/sochub/STM8L151/wiki) 
+### [STM8L15x描述](https://github.com/sochub/STM8L151/wiki) 
 
-主要针对8051市场替换，产品特点是提供低功耗设计，拥有各种不同规格的产品线。
+[STM8L151](https://github.com/sochub/STM8L151) 是[STM8L](https://github.com/sochub/STM8L) 系列中较高端的存在，在实现低功耗的基础上拥有了更多强大的外设资源，十分适合采集和控制类设备。
 
-STM8L151/152 是STM8L系列中较高端的存在，提供优于STM8L101的性能，推荐(常用)型号为[STM8L151](https://github.com/sochub/STM8L151) 
-
-[![sites](docs/STM8L151.png)](https://www.st.com/en/microcontrollers-microprocessors/STM8L151-series.html) 
+[![sites](docs/STM8L151.png)](https://www.st.com/en/microcontrollers-microprocessors/stm8l151-152.html) 
 
 ### 关键参数：
 
