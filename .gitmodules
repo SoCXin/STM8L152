@@ -1,0 +1,3 @@
+[submodule "project/STM8L15x_StdPeriph_Driver"]
+	path = project/STM8L15x_StdPeriph_Driver
+	url = https://github.com/SoCXin/STM8L15x_StdPeriph_Driver
