@@ -1,8 +1,10 @@
 *.dep
-*.ewt
 *.log
+*.ewt
+*.ewd
 out/
 Debug/
+Release/
 settings/
 *.pyc
 .pio/
